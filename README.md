@@ -11,8 +11,6 @@ Overall, Chhatrapati Defender is a powerful and versatile virus scanner tool tha
 
 3 Select Your Scanning File Path
 
-# 
-
 # Screenshot
 ![Screenshot (1)](https://user-images.githubusercontent.com/74574551/220845562-01951614-c88e-4559-a577-b92013f61c7f.png)
 
