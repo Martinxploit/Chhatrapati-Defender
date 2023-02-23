@@ -7,7 +7,7 @@ Overall, Chhatrapati Defender is a powerful and versatile virus scanner tool tha
 # HOW TO USE
 1 Open Chhatrapati Defender.exe 
 
-2 Enter APK KEY ( KEY Available in Project TXT File Otherwise Singup Virustotal and Create New KEY )
+2 Enter API KEY ( KEY Available in Project TXT File Otherwise Singup Virustotal and Create New API KEY )
 
 3 Select Your Scanning File Path
 
