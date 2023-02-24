@@ -11,6 +11,20 @@ Overall, Chhatrapati Defender is a powerful and versatile virus scanner tool tha
 
 3 Select Your Scanning File Path
 
+# Features
+
+1 Easy To Use
+
+2 Scaning Your Files Over 70 Antivirus Just 20 sec
+
+3 All Results Saved In One TXT File
+
+4 Daliy Maximum Scan Total 50 Times
+
+5 All File Extensions Supported
+
+
+
 # Screenshot
 ![Screenshot (1)](https://user-images.githubusercontent.com/74574551/220845562-01951614-c88e-4559-a577-b92013f61c7f.png)
 
